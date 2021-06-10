@@ -1,0 +1,2 @@
+# Automatic-Hand-Sanitizer-with-IoT
+In this we have used Arduino as the micro-controller, Ultra-sonic sensor(HC-Sr04) to detect presence of hand, Servo-motor(MG 995) to control the motion of hand-sanitizer. So the overview of working of our project is: HC-Sr04 calculates the distance of the hand, which if in range(>3cm and &lt;15cm), it allows the the servo motor to continue its operation, whose armature is attached to the cap of the bottle and its motion causes the dispenser to dispense the liquid.
